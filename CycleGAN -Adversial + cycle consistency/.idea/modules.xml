@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Gans/AnimeFaceMaker/.idea/AnimeFaceMaker.iml" filepath="$PROJECT_DIR$/../Gans/AnimeFaceMaker/.idea/AnimeFaceMaker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/CycleGAN.iml" filepath="$PROJECT_DIR$/.idea/CycleGAN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CycleGanAudio/.idea/CycleGanAudio.iml" filepath="$PROJECT_DIR$/../CycleGanAudio/.idea/CycleGanAudio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SnakeTry - Ai/.idea/SnakeTry.iml" filepath="$PROJECT_DIR$/../SnakeTry - Ai/.idea/SnakeTry.iml" />
+    </modules>
+  </component>
+</project>

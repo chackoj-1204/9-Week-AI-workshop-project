@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Handwritten Image classification/.idea/Handwritten Image classification.iml" filepath="$PROJECT_DIR$/../Handwritten Image classification/.idea/Handwritten Image classification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SnakeTry.iml" filepath="$PROJECT_DIR$/.idea/SnakeTry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../snakeDeepQTutorial/.idea/snakeDeepQTutorial.iml" filepath="$PROJECT_DIR$/../snakeDeepQTutorial/.idea/snakeDeepQTutorial.iml" />
+    </modules>
+  </component>
+</project>
